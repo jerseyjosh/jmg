@@ -1,7 +1,8 @@
-baseURL = ''
+baseURL = 'https://jerseyjosh.github.io/blog/'
 languageCode = 'en-us'
 title = '<jmg>'
 theme = 'terminal'
+canonifyURLs = true
 
 [caches]
   [caches.images]
